@@ -1,0 +1,17 @@
+{
+  "api/Primes.Lib.PrimeService.html": {
+    "href": "api/Primes.Lib.PrimeService.html",
+    "title": "Class PrimeService | Primes.Lib - Documentación",
+    "summary": "Class PrimeService Namespace Primes.Lib Assembly Primes.Lib.dll Servicio que permite determinar si un número entero es primo. public class PrimeService Inheritance object PrimeService Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods IsPrime(int) Determina si el número indicado es primo. public bool IsPrime(int candidate) Parameters candidate int Número entero a evaluar. Returns bool true si candidate es primo; false si es menor que 2 o si es compuesto (tiene algún divisor distinto de 1 y de sí mismo)."
+  },
+  "api/Primes.Lib.html": {
+    "href": "api/Primes.Lib.html",
+    "title": "Namespace Primes.Lib | Primes.Lib - Documentación",
+    "summary": "Namespace Primes.Lib Classes PrimeService Servicio que permite determinar si un número entero es primo."
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "Primes.Lib | Primes.Lib - Documentación",
+    "summary": "Primes.Lib Documentación de la biblioteca Primes.Lib (Laboratorio 02 - Pruebas unitarias con xUnit). La clase PrimeService expone el método IsPrime(int), que determina si un número entero es primo."
+  }
+}
